@@ -9,17 +9,17 @@ This project analyzes the Titanic dataset from Kaggle and visualizes key trends 
 - **Age Distribution** (Histogram)  
 - **Survival Count by Passenger Class** (Stacked Bar Chart)  
 - **Fare vs. Age** (Scatter Plot)
-!(images/pd1.png)
-!(images/pd2.png)
-!(images/pd3.png)
+![](images/pd1.png)
+![](images/pd2.png)
+![](images/pd3.png)
 
 ### **Matplotlib-Based Plots**  
 - **Survival Rate by Age** (Line Plot)  
 - **Survival Rate by Age & Passenger Class** (Subplots: Line & Bar Chart)  
 - **Survival Rate by Gender & Class, Passenger Count by Gender & Class** (Subplots: Bar Charts)
-!(images/mat1.png)
-!(images/mat2.png)
-!(images/mat3.png)
+![](images/mat1.png)
+![](images/mat2.png)
+![](images/mat3.png)
 
 ### **Seaborn-Based Plots**  
 - **Age Distribution by Gender** (Violin Plot)  
@@ -27,11 +27,11 @@ This project analyzes the Titanic dataset from Kaggle and visualizes key trends 
 - **Fare Distribution by Passenger Class** (Box Plot)  
 - **Feature Correlation Heatmap**  
 - **Age vs. Fare by Survival Status** (Swarm Plot)  
-!(images/sea1.png)
-!(images/sea2.png)
-!(images/sea3.png)
-!(images/sea4.png)
-!(images/sea5.png)
+![](images/sea1.png)
+![](images/sea2.png)
+![](images/sea3.png)
+![](images/sea4.png)
+![](images/sea5.png)
 
 ## Technologies Used  
 - **Pandas**: Data manipulation and preprocessing  
