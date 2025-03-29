@@ -9,9 +9,9 @@ This project analyzes the Titanic dataset from Kaggle and visualizes key trends 
 - **Age Distribution** (Histogram)  
 - **Survival Count by Passenger Class** (Stacked Bar Chart)  
 - **Fare vs. Age** (Scatter Plot)
-(images/pd1.png)
-(images/pd2.png)
-(images/pd3.png)  
+(Plots/pd1.png)
+(Plots/pd2.png)
+(Plots/pd3.png)  
 
 ### **Matplotlib-Based Plots**  
 - **Survival Rate by Age** (Line Plot)  
